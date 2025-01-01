@@ -1,4 +1,4 @@
-Principal Component Analysis (PCA) is a popular dimensionality reduction technique used in machine learning. It is particularly effective for reducing the number of features in a dataset while retaining as much variance (information) as possible. Here's an overview of what PCA is, how it works, and its applications:
+Principal Component Analysis (PCA) is a popular dimensionality reduction technique used in machine learning. It is particularly effective for reducing the number of features in a dataset while retaining as much variance (information) as possible. It Manipulate Higher Dimension Data To Lower Dimension Eg. 3D data -> 2D or 2D -> 1D. Here's an overview of what PCA is, how it works, and its applications:
 
 ## **What is PCA?**
 - PCA transforms the original features of a dataset into a new set of features, called principal components. These components are linear combinations of the original features and are orthogonal to each other. The first principal component captures the most variance, the second captures the second most variance, and so on.
