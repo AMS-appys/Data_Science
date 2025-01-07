@@ -8,7 +8,7 @@ For a higher confidence level, use a larger sample size
 To decrease the margin of error, use a larger sample size
 For greater statistical significance, use a larger sample size
 
-**Note:** Sample size calculators use statistical formulas to determine a sample size. More about these are coming up in the course!  Stay tuned.
+**Note:** Sample size calculators use statistical formulas to determine a sample size. 
 
 # Why a minimum sample of 30?
 This recommendation is based on the Central Limit Theorem (CLT) in the field of probability and statistics. As sample size increases, the results more closely resemble the normal (bell-shaped) distribution from a large number of samples. A sample of 30 is the smallest sample size for which the CLT is still valid. Researchers who rely on regression analysis – statistical methods to determine the relationships between controlled and dependent variables – also prefer a minimum sample of 30.
