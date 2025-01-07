@@ -1,3 +1,5 @@
+![](https://github.com/AMS-appys/Data_Science/blob/main/Confidence%20Interval/ci.png)
+
 # margin of error
 Margin of error is the maximum amount that the sample results are expected to differ from those of the actual population. More technically, the margin of error defines a range of values below and above the average result for the sample. The average result for the entire population is expected to be within that range. We can better understand margin of error by using some examples below.
 
